@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "RADAR",
+    "name": "RADAR (Рус)",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
@@ -39,7 +39,9 @@
     "html_before": "",
     "headbody": "",
     "botbody": "",
-    "confidenceAlert": ""
+    "confidenceAlert": "",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -232,7 +234,7 @@
             "paddingBottom": "3",
             "bgColor": "#efefef"
           },
-          "text": "<blockquote>&nbsp; &nbsp;<b> </b>&nbsp;<b> ПРЕИМУЩЕСТВА\n</b></blockquote><blockquote><p><b>✅ Один прибор вместо двух:</b></p><p><b>&nbsp; &nbsp; &nbsp;</b>✅ Снижение стоимости обнаружения</p><p>&nbsp; &nbsp; &nbsp;✅ Снижение стоимости обнаружения</p><p>&nbsp; &nbsp; &nbsp;✅ Снижение времени процесса обнаружения</p><p><b>✅ Один человек вместо двух</b></p><p>&nbsp; &nbsp; &nbsp;✅ Отсутствие специальных квалификационных требований к персоналу</p><p><b>✅ Работа в полевых условиях и в сложной метеообстановке</b></p><p><b>✅ Работа в условиях внешнего электромагнитного поля&nbsp;</b></p></blockquote>",
+          "text": "<blockquote>&nbsp; &nbsp;<b> </b>&nbsp;<b> ПРЕИМУЩЕСТВА\n</b></blockquote><blockquote><p><b>✅ Один прибор вместо двух:</b></p><p><b>&nbsp; &nbsp; &nbsp;</b>✅ Снижение стоимости обнаружения</p><p>&nbsp; &nbsp; &nbsp;✅ Уменьшение размера оборудования</p><p>&nbsp; &nbsp; &nbsp;✅ Снижение времени процесса обнаружения</p><p><b>✅ Один человек вместо двух</b></p><p>&nbsp; &nbsp; &nbsp;✅ Отсутствие специальных квалификационных требований к персоналу</p><p><b>✅ Работа в полевых условиях и в сложной метеообстановке</b></p><p><b>✅ Работа в условиях внешнего электромагнитного поля&nbsp;</b></p></blockquote>",
           "_tags": [
             "Theme"
           ],
