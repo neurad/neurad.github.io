@@ -931,7 +931,7 @@
               "newWindow": false
             }
           },
-          "text1": "<b>ООО \"ТермоВат\" </b><br><b>Беларусь, 220116, Минск, \n<br>Бетонный проезд, 19 А, оф. 306&nbsp;<br>Email:&nbsp;neurad.info@gmail.com&nbsp;<br>Phone: +375 (29) 6317655\n</b><br><br><br>",
+          "text1": "<b>ООО \"ТермоВат\" </b><br><b>Беларусь, 220036, Минск, \n<br>Бетонный проезд, 19а, оф. 306&nbsp;<br>Email:&nbsp;neurad.info@gmail.com&nbsp;<br>Phone: +375 29 6317655\n</b><br><br><br>",
           "text2": "<br><br><br>",
           "text3": "",
           "_tags": [
@@ -1218,7 +1218,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/rad-1000-468x7860.png",
+              "src": "@PROJECT_PATH@/assets/images/rad-1000-468x7861.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -1864,7 +1864,7 @@
               "newWindow": false
             }
           },
-          "text1": "<b>ООО \"ТермоВат\" </b><br><b>Беларусь, 220116, Минск, \n<br>Бетонный проезд, 19 А, оф. 306&nbsp;<br>Email:&nbsp;neurad.info@gmail.com&nbsp;<br>Phone: +375 (29) 6317655\n</b><br><br><br>",
+          "text1": "<b>ООО \"ТермоВат\" </b><br><b>Беларусь, 220036, Минск, \n<br>Бетонный проезд, 19а, оф. 306&nbsp;<br>Email:&nbsp;neurad.info@gmail.com&nbsp;<br>Phone: +375 29 6317655\n</b><br><br><br>",
           "text2": "<br><br><br>",
           "text3": "",
           "_tags": [
